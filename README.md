@@ -54,6 +54,4 @@ yarn start
   <li><a href=https://www.linkedin.com/in/marcosvinis28/>Marcos Vinícius da Silva</a></li>
 </ul>
 
-###
-
-Verification video
+### Verification video
